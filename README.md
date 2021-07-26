@@ -5,7 +5,11 @@ Below are the features to be implemented:
 Add new book and the details of the book are:
 
 Entry Of A New Book
+
 Search For A Book
+
 Buy A Book
+
 Edit Details Of Book
+
 Exit
