@@ -4,12 +4,15 @@ Below are the features to be implemented:
 
 Add new book and the details of the book are:
 
-Entry Of A New Book
+1. Entry Of A New Book
 
-Search For A Book
+2. Search For A Book
 
-Buy A Book
+3. Buy A Book
 
-Edit Details Of Book
+4. Edit Details Of Book
 
-Exit
+5.Exit
+
+![image](https://user-images.githubusercontent.com/66832143/127040582-2b2c147b-9481-4d6b-afd5-250536981048.png)
+
